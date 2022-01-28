@@ -2,6 +2,7 @@
   "name": "vkminiappboilerplate",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://dEN5-tech.github.io/vk-mini-app-boilerplate/"
   "main": "index.js",
   "scripts": {
     "start": "cross-env PORT=10888 react-scripts start",
